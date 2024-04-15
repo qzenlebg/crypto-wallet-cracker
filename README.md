@@ -5,7 +5,7 @@ Some stuff to crack wallets
 A simple python crypto wallet cracker that gets an address from a mnemonic passphrase.
 It uses blockchain info to get the balance of the address .
 
-## Software i will pit it later sorry 🥺
+## Software i will put it later sorry 🥺
 This Software is being sold by scammers, I looked at the code and didnt find any thing that really searches or verifys the mnemonic passphrase
 Normaly you have a installer but i modified it so you need to extract the file
 ### All the codes
